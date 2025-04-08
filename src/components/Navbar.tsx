@@ -46,7 +46,7 @@ const Navbar = () => {
     <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrollPosition > 10 ? 'bg-sosikaDark/90 backdrop-blur-md shadow-lg' : 'bg-transparent'}`}>
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <div className="flex items-center">
-          <span className="text-sosikaBlue text-2xl font-bold mr-2">Sosika</span>
+          <span className="text-sosikaBlue text-2xl sosika-logo mr-2">Sosika</span>
           <span className="text-white text-sm hidden sm:inline-block">Campus Food Delivery</span>
         </div>
 

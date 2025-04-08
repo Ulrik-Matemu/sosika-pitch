@@ -41,7 +41,7 @@
   }
 
   body {
-    @apply bg-sosikaDark text-white;
+    @apply bg-sosikaDark text-white font-titillium;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -78,5 +78,9 @@
 
   .scroll-animation.visible {
     @apply opacity-100 translate-y-0;
+  }
+
+  .sosika-logo {
+    @apply font-titillium-black font-black;
   }
 }

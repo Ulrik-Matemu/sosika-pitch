@@ -20,7 +20,7 @@ const Hero = () => {
       
       {/* Content Container */}
       <div className="container mx-auto px-4 z-10 text-center">
-        <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in">
+        <h1 className="text-4xl md:text-6xl lg:text-7xl sosika-logo mb-6 animate-fade-in">
           <span className="text-white">Sosika</span>
           <span className="text-sosikaBlue">.</span>
         </h1>

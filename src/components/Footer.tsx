@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col md:flex-row justify-between items-center mb-8">
           <div className="mb-6 md:mb-0">
-            <div className="text-3xl font-bold text-sosikaBlue mb-2">Sosika</div>
+            <div className="text-3xl sosika-logo text-sosikaBlue mb-2">Sosika</div>
             <p className="text-gray-400">Redefining Campus Food Delivery</p>
           </div>
           
